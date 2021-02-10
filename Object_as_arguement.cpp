@@ -1,4 +1,4 @@
-[8:12 PM, 9/2/2020] Wonder Woman: #include <iostream>
+#include <iostream>
 using namespace std;
 class weight{
 double kilogram;
@@ -37,7 +37,7 @@ void display()
 };
 int weight::count;
 int main() {
-  cout<<"ROLL NO. 198…
+  cout<<"ROLL NO. 198â€¦
 [8:12 PM, 9/2/2020] Wonder Woman: #include <iostream>
 using namespace std;
 class height{
